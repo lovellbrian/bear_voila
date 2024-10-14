@@ -1,4 +1,4 @@
 voila
 fastai
-pillow<
+pillow
 packaging
